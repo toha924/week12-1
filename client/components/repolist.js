@@ -15,8 +15,6 @@ const Repolist = (props) => {
           )
         })}
       </div>
-
-      <Link to="/">На главную</Link>
     </div>
   )
 }
