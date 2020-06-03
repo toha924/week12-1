@@ -13,7 +13,7 @@ const Inputuser = () => {
   return (
     <div className="flex-col">
       <input
-        id="nput-field"
+        id="input-field"
         type="text"
         className=" block border-2 border-solid px-2 py-1"
         placeholder="Введите имя пользователя"
